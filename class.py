@@ -4,4 +4,7 @@ class Test():
     self.name = name
     self.age = age
 s1 = Test('xeon',18)
-  def func():
+def func():
+  print("class outer func")
+    
+ 
