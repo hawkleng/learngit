@@ -4,5 +4,11 @@ class Test():
     self.name = name
     self.age = age
 s1 = Test('xeon',18)
-  def func():
+<<<<<<< HEAD
 s2 = Test('hawk',20)
+=======
+def func():
+  print("class outer func")
+    
+ 
+>>>>>>> origin/master
